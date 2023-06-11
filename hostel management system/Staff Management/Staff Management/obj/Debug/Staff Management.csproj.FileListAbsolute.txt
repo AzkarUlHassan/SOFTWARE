@@ -1,0 +1,13 @@
+D:\Staff Management\Staff Management\bin\Debug\Staff Management.exe.config
+D:\Staff Management\Staff Management\bin\Debug\Staff Management.exe
+D:\Staff Management\Staff Management\bin\Debug\Staff Management.pdb
+D:\Staff Management\Staff Management\obj\Debug\Staff Management.csproj.AssemblyReference.cache
+D:\Staff Management\Staff Management\obj\Debug\Staff Management.csproj.SuggestedBindingRedirects.cache
+D:\Staff Management\Staff Management\obj\Debug\Staff_Management.Edit_Staff.resources
+D:\Staff Management\Staff Management\obj\Debug\Staff_Management.Form2.resources
+D:\Staff Management\Staff Management\obj\Debug\Staff_Management.Form1.resources
+D:\Staff Management\Staff Management\obj\Debug\Staff_Management.Properties.Resources.resources
+D:\Staff Management\Staff Management\obj\Debug\Staff Management.csproj.GenerateResource.cache
+D:\Staff Management\Staff Management\obj\Debug\Staff Management.csproj.CoreCompileInputs.cache
+D:\Staff Management\Staff Management\obj\Debug\Staff Management.exe
+D:\Staff Management\Staff Management\obj\Debug\Staff Management.pdb
